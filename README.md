@@ -35,10 +35,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br></br>
 <br></br>
 <br></br>
+<!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpittiwari744&show_icons=true&theme=dark&locale=en" alt="arpittiwari744" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpittiwari744&theme=dark" alt="arpittiwari744" /></p
-
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpittiwari744&theme=dark" alt="arpittiwari744" /></p
+--->
 <!---
 arpittiwari744/arpittiwari744 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
